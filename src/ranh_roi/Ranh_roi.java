@@ -62,7 +62,7 @@ public class Ranh_roi {
     public void BanHang(){
         cthd = new CTHD();
         System.out.println("Chọn -1 để hoàn thành order!");
-        int chon_order = 0;
+        int chon_order;
         do{
             kho.ThongKe();
             
@@ -142,9 +142,11 @@ public class Ranh_roi {
                                 break;
                             case 2:
                                 rr.BanHang();
+                                System.out.println("Xac nhan thanh toan: (1/0)");
                                 int xac_nhan = sc.nextInt();
                                 if (xac_nhan == 1){
                                     rr.Thanhtoan();
+                                    System.out.println("Da thanh toan thanh cong!");
                                 }
                                 break;
                             case 3:
