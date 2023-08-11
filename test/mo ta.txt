@@ -1,0 +1,20 @@
+D:\OOP\qlbhre\Ranh_roi
+
+- Nha cung cap quan li hang hoa
+    + Nha cung cap co the:
+        . them mat hang moi
+        . thong ke so hang con lai
+        . loai bo 1 mat hang
+        . xuat so luong san pham de giao cho cua hang
+- Kho dung de luu tru hang hoa
+    + Kho co the:
+        . Them 1 mat hang moi tu NHA CUNG CAP
+        . Them vao so luong cua mat hang da co tu NHA CUNG CAP
+        . thong ke hang hoa trong kho
+        . Xuat so luong san pham de ban
+        . Loai bo mat hang khong ban nua 
+- Hoa don dung de khoi tao ra 1 hoa don moi
+- CTHD dung de luu tru nhung mat hang khach order
+    + CTHD co the:
+        . Tinh tong tien mon
+        . Xuat hoa (Thanh toan)
